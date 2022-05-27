@@ -8,10 +8,10 @@ Visualization recommendation is a novel and challenging field of study, whose ai
 
 ## Repostitory description
 In this [link](https://drive.google.com/drive/folders/1Dgk6ql4USoqe_uKAhm8hXwXZbeE_HkkS?usp=sharing) are provided all the data described in the paper. More in details:
-- *Scatter_new* contains all the images for class 0(not insightful) and class 1(insightfull) of scatters labeled in Plotly.plus
-- *Scatter* contains all the images for class 0(not insightful) and class 1(insightfull) of scatters from original Plotly corpus
-- *Lines_new* contains all the images for class 0(not insightful) and class 1(insightfull) of lines labeled in Plotly.plus
-- *Lines* contains all the images for class 0(not insightful) and class 1(insightfull) of lines from original Plotly corpus
-- *augmented_dataset.pkl* is the dataframe of Plotly.plus with all the features extracted(centroid, class, confidence score, img and xycoordinate in tsne embeddings)
+- **Scatter_new** contains all the images for class 0(not insightful) and class 1(insightfull) of scatters labeled in Plotly.plus
+- **Scatter** contains all the images for class 0(not insightful) and class 1(insightfull) of scatters from original Plotly corpus
+- **Lines_new** contains all the images for class 0(not insightful) and class 1(insightfull) of lines labeled in Plotly.plus
+- **Lines** contains all the images for class 0(not insightful) and class 1(insightfull) of lines from original Plotly corpus
+- **augmented_dataset.pkl** is the dataframe of Plotly.plus with all the features extracted(centroid, class, confidence score, img and xycoordinate in tsne embeddings)
 
 The clustering library is avaible at: [Clustimage](https://erdogant.github.io/clustimage/pages/html/index.html)
