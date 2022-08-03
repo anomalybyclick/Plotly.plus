@@ -17,6 +17,8 @@ In this [link](https://doi.org/10.6084/m9.figshare.20424924.v1) are provided all
 The clustering library is avaible at: [Clustimage](https://erdogant.github.io/clustimage/pages/html/index.html)
 
 
+
+## License
 Copyright © 2022 <Luca Podo and Paola Velardi>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
