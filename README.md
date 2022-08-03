@@ -14,7 +14,7 @@ In this [link](https://doi.org/10.6084/m9.figshare.20424924.v1) are provided all
 - **Lines** contains all the images for class 0(not insightful) and class 1(insightfull) of lines from original Plotly corpus
 - **augmented_dataset.pkl** is the dataframe of Plotly.plus with all the features extracted(centroid, class, confidence score, img and xycoordinate in tsne embeddings)
 
-The clustering library is avaible at: [Clustimage](https://erdogant.github.io/clustimage/pages/html/index.html)
+The clustering library is available at: [Clustimage](https://erdogant.github.io/clustimage/pages/html/index.html)
 
 
 ## Acknowledgements
