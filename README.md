@@ -17,6 +17,8 @@ In this [link](https://doi.org/10.6084/m9.figshare.20424924.v1) are provided all
 The clustering library is avaible at: [Clustimage](https://erdogant.github.io/clustimage/pages/html/index.html)
 
 
+##Acknowledgements
+This work is a result of the research project funded by MIUR under the grant of “Dipartimenti di eccellenza 2018-2022” of the Department of Computer Science of Sapienza University.
 
 ## License
 Copyright © 2022 Luca Podo and Paola Velardi
